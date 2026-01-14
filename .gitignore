@@ -1,40 +1,4 @@
 venv/
-
-# Arquivos Python compilados
-__pycache__/
-*.py[cod]
-*.pyo
-
-# Logs e arquivos temporários
-*.log
-*.sqlite3
-*.db
-*.bak
-
-# Configurações de IDEs
 .idea/
 .vscode/
 
-# Arquivos de sistema
-.DS_Store
-Thumbs.db
-
-# Arquivos de testes
-.coverage
-htmlcov/
-.tox/
-nosetests.xml
-test-results/
-
-# Arquivos de pacotes
-*.egg-info/
-dist/
-build/
-
-# Arquivos de deploy (caso use)
-*.tar.gz
-*.whl
-
-# Arquivos de cache
-.cache/
-*.swp
